@@ -8,7 +8,7 @@ O formulário é dividido em seções usando `<fieldset>` e `<legend>`,
 permitindo a organização dos dados gerais, endereço e mensagem
 de contato do usuário.
 
-## Estrutura do formulário
+ Estrutura do formulário
 - Dados Gerais
 - Endereço
 - Fale Conosco
