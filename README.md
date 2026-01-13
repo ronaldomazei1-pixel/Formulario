@@ -1,3 +1,4 @@
+
 # Formulário HTML - Cadastro e Contato
 
 Este projeto contém um exercício de HTML focado na criação de formulários
@@ -32,7 +33,6 @@ trabalhando com diferentes tipos de campos e agrupamento de informações.
 - HTML
 
 ## Repositório
-Acesse o projeto no GitHub:  
 https://github.com/ronaldomazei1-pixel/Formul-rio.git
 
 ## Nível
