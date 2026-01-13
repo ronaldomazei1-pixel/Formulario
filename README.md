@@ -1,25 +1,27 @@
 # Formulário HTML - Cadastro e Contato
 
-Este projeto contém um exercício de HTML focado na criação de
-formulários utilizando campos de entrada, seleção e área de texto.
+Este projeto contém um exercício de HTML focado na criação de formulários
+utilizando campos de entrada, seleção e área de texto.
 
 ## Descrição
-O formulário é dividido em seções usando `<fieldset>` e `<legend>`,
+O formulário é dividido em seções utilizando `fieldset` e `legend`,
 permitindo a organização dos dados gerais, endereço e mensagem
 de contato do usuário.
 
- Estrutura do formulário
+## Estrutura do formulário
 - Dados Gerais
 - Endereço
 - Fale Conosco
 
 ## Elementos utilizados
-- `<form>`
-- `<fieldset>` e `<legend>`
-- `<label>`
-- `<input>`
-- `<select>` e `<option>`
-- `<textarea>`
+- `form`
+- `fieldset`
+- `legend`
+- `label`
+- `input`
+- `select`
+- `option`
+- `textarea`
 - Botões de envio e limpeza
 
 ## Objetivo do exercício
@@ -31,7 +33,7 @@ trabalhando com diferentes tipos de campos e agrupamento de informações.
 
 ## Repositório
 Acesse o projeto no GitHub:  
-👉 https://github.com/ronaldomazei1-pixel/Formul-rio.git
+https://github.com/ronaldomazei1-pixel/Formul-rio.git
 
 ## Nível
 Iniciante
